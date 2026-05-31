@@ -277,7 +277,7 @@ export default function LandingPage() {
             "Application & Registration",            "Technology & Materials Fee",            "Athletic Activity Fee (optional)",            "Extended Care (optional)"],
           button: {
             text: "Contact Admissions",            href: "#contact"},
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780210288277-d3s2a1q0.jpeg",          imageAlt: "Enrollment forms and pen"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780210300000-enrollment-family.jpeg",          imageAlt: "Family enrolling child at school office"},
       ]}
       title="Investing in Your Child's Future"
       description="Orlando Private School provides an affordable private education, representing a significant investment in your child's future with exceptional returns in academic achievement, personal growth, and lifelong success."

@@ -47,7 +47,7 @@ export default function LandingPage() {
         {
           name: "Contact",          id: "#contact"},
       ]}
-      logoSrc="http://img.b2bpic.net/free-photo/delaware-flag-with-banner_187299-35477.jpg"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780205265077-fg2qg94f.jpg"
       logoAlt="Orlando Private School Logo"
       brandName="Orlando Private School"
       button={{
@@ -303,7 +303,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
-      logoSrc="http://img.b2bpic.net/free-photo/delaware-flag-with-banner_187299-35477.jpg"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780205265077-fg2qg94f.jpg"
       logoAlt="Orlando Private School Logo"
       columns={[
         {

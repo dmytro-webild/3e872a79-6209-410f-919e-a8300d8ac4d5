@@ -61,6 +61,7 @@ export default function LandingPage() {
       useInvertedBackground={true}
       background={{
         variant: "plain"}}
+      tag="Leading with courage , learning with purpose."
       title="Nurturing Minds, Building Futures: Experience Excellence at Orlando Private School"
       description="At Orlando Private School, we’re dedicated to cultivating inquisitive minds and strong character. We provide a rigorous academic foundation combined with essential life skills, ensuring your child thrives and realizes their full potential in a supportive, enriching environment."
       testimonials={[

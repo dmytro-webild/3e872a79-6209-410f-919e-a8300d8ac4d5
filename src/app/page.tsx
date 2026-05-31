@@ -52,6 +52,7 @@ export default function LandingPage() {
       brandName="Orlando Private School"
       button={{
         text: "Schedule a Tour",        href: "#contact"}}
+      buttonTextClassName="font-bold"
     />
   </div>
 
@@ -85,6 +86,7 @@ export default function LandingPage() {
         {
           text: "Learn More",          href: "#about"},
       ]}
+      buttonTextClassName="font-bold"
       avatars={[
         {
           src: "http://img.b2bpic.net/free-photo/front-view-smiley-man-outdoors_23-2149915911.jpg",          alt: "Parent avatar 1"},
@@ -142,6 +144,7 @@ export default function LandingPage() {
       ]}
       title="The Orlando Private School Difference"
       description="Here's what sets our education apart and ensures your child's success from Pre-K to 8th grade."
+      textBoxButtonTextClassName="font-bold"
     />
   </div>
 
@@ -167,6 +170,7 @@ export default function LandingPage() {
       ]}
       title="Voices of Our Community"
       description="Hear directly from parents, guardians, and former students about their enriching experiences at Orlando Private School."
+      textBoxButtonTextClassName="font-bold"
     />
   </div>
 
@@ -192,6 +196,7 @@ export default function LandingPage() {
       ]}
       title="Campus & Student Life Gallery"
       description="Immerse yourself in the vibrant life at Orlando Private School with a collage of moments from our classrooms, sports fields, art studios, and community events."
+      textBoxButtonTextClassName="font-bold"
     />
   </div>
 
@@ -215,6 +220,7 @@ export default function LandingPage() {
         {
           text: "Start with a Tour",          href: "#contact"},
       ]}
+      textBoxButtonTextClassName="font-bold"
     />
   </div>
 
@@ -241,6 +247,7 @@ export default function LandingPage() {
         {
           text: "Contact Admissions",          href: "#contact"},
       ]}
+      buttonTextClassName="font-bold"
       faqsAnimation="slide-up"
       textPosition="left"
     />
@@ -273,6 +280,8 @@ export default function LandingPage() {
       ]}
       title="Investing in Your Child's Future"
       description="Orlando Private School provides an affordable private education, representing a significant investment in your child's future with exceptional returns in academic achievement, personal growth, and lifelong success."
+      textBoxButtonTextClassName="font-bold"
+      planButtonTextClassName="font-bold"
     />
   </div>
 
@@ -288,6 +297,7 @@ export default function LandingPage() {
         {
           text: "Apply Today",          href: "#"},
       ]}
+      buttonTextClassName="font-bold"
     />
   </div>
 
@@ -328,6 +338,7 @@ export default function LandingPage() {
         },
       ]}
       logoText="Orlando Private School"
+      buttonClassName="font-bold"
     />
   </div>
       </ReactLenis>

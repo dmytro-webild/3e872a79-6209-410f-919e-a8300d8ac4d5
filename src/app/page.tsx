@@ -51,7 +51,7 @@ export default function LandingPage() {
       logoAlt="Orlando Private School Logo"
       brandName="Orlando Private School"
       button={{
-        text: "Schedule a Tour",        href: "#contact"}}
+        text: "Schedule a Tour",          href: "#contact"}}
       buttonTextClassName="font-bold"
     />
   </div>
@@ -265,19 +265,19 @@ export default function LandingPage() {
             "Comprehensive Academic Program",            "Small Class Sizes",            "Extracurricular Access",            "Character Development Focus"],
           button: {
             text: "View Details",            href: "#"},
-          imageSrc: "http://img.b2bpic.net/free-photo/enjoying-school_1098-13010.jpg",          imageAlt: "Elementary school student learning"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1707203672803-a4b3c2d1.jpeg",          imageAlt: "Elementary school student reading a book"},
         {
           id: "middle-school-tuition",          title: "Middle School Tuition (6-8)",          price: "$10,800",          period: "per year",          features: [
             "Advanced Core Subjects",            "Leadership Opportunities",            "STEM & Arts Integration",            "College Preparatory Guidance"],
           button: {
             text: "View Details",            href: "#"},
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-friends-relaxing-outdoors_23-2150466082.jpg",          imageAlt: "Middle school students in a classroom"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1707203714280-e5f4g3h2.jpeg",          imageAlt: "Middle school students collaborating on a project"},
         {
           id: "enrollment-fees",          title: "Enrollment & Fees",          price: "$750",          period: "one-time",          features: [
             "Application & Registration",            "Technology & Materials Fee",            "Athletic Activity Fee (optional)",            "Extended Care (optional)"],
           button: {
             text: "Contact Admissions",            href: "#contact"},
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780210300000-enrollment-family.jpeg",          imageAlt: "Family enrolling child at school office"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1707203728955-i6j5k4l3.jpeg",          imageAlt: "Family talking to school admissions officer"},
       ]}
       title="Investing in Your Child's Future"
       description="Orlando Private School provides an affordable private education, representing a significant investment in your child's future with exceptional returns in academic achievement, personal growth, and lifelong success."
@@ -304,7 +304,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterLogoEmphasis
-      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1780205265077-fg2qg94f.jpg"
+      logoSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3ETSYg6nElnC2XrpoMEFXkGgJGI/uploaded-1707203740261-m7n6o5p4.jpeg"
       logoAlt="Orlando Private School Logo"
       columns={[
         {

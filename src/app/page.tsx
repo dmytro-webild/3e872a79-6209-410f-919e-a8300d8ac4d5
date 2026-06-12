@@ -106,10 +106,10 @@ export default function LandingPage() {
       mediaAnimation="opacity"
       marqueeItems={[
         {
-          type: "text-icon",          text: "Academic Excellence",          icon: BookOpen,
+          type: "image",          src: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          alt: "Books on a desk"
         },
         {
-          type: "text-icon",          text: "Character Development",          icon: Users,
+          type: "image",          src: "https://images.unsplash.com/photo-1522204523234-8729aa67e203?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",          alt: "Students collaborating"
         },
         {
           type: "text-icon",          text: "Nurturing Environment",          icon: Heart,
